@@ -1,5 +1,5 @@
 # stereoVision3DReconstruct
-my graduation design
+个人毕业设计，基于双目摄像头的三位图像重建
 
 # 依赖库
 ORB-SLAM2  
